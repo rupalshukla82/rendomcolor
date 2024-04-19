@@ -9,7 +9,8 @@ It's useful for dsigners and devlopers who need to quickly get a random color fo
 - descripition 
 - Features 
 - How to use 
-- Demo 
+- Demo
+- Techonologies used 
 - usages 
 - Lessons learned 
 ## Features
@@ -36,6 +37,12 @@ It's useful for dsigners and devlopers who need to quickly get a random color fo
 - Soluion URL :- https://github.com/rupalshukla82/rendomcolor
 
 - Live Demo :- https://randomcolorgenretor.netlify.app/
+
+## Technologies used 
+
+- HTML
+- CSS
+- Javascript 
 
 ## Usages 
 
