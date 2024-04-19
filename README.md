@@ -19,7 +19,7 @@ It's useful for dsigners and devlopers who need to quickly get a random color fo
 
 - Random color :- users can genrete the random colors just only clicking on the click me! button 
 
-- Device support :- users can use this random color genretor in thire smart phone , tablets , computer and also in the laptop Device 
+- Responcive :- users can use this random color genretor in thire smart phone , tablets , computer and also in the laptop Device 
 
 
 ## How to use 
